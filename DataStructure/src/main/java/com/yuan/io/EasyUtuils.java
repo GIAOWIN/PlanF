@@ -2,6 +2,9 @@ package com.yuan.io;
 
 import java.io.*;
 
+/**
+ * @author Yuan-9826
+ */
 public class EasyUtuils {
 
     /**
