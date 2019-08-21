@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DataStructure" target="7" />
-      <module name="easyUtils" target="1.5" />
+      <module name="easyUtils" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>

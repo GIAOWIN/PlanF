@@ -7,6 +7,13 @@ import java.io.*;
  */
 public class EasyUtuils {
 
+    public static void main(String[] args) {
+
+        File target = new File("C:\\Users\\ASUS\\Desktop\\新建文件夹");
+        String destination = "C:\\Users\\ASUS\\Desktop\\like\\EE";
+        String type = ".md";
+        copyAll(target,destination,type);
+    }
     /**
      * 复制一个文件
      * @param target      目标
@@ -22,8 +29,8 @@ public class EasyUtuils {
             final byte[] bs = new byte[1024 * 10];
             while ((len = in.read(bs)) != -1) {
                 out.write(bs,0,len);
-                System.out.println(destination+target.getName());
             }
+                System.out.println(destination+"\\"+target.getName());
         } catch (IOException e) {
             e.printStackTrace();
         }
