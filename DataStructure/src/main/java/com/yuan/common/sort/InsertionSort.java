@@ -1,37 +1,63 @@
 package com.yuan.common.sort;
 
+import java.util.Arrays;
+
 /**
+ * 插入排序
  * @author Yuan-9826
  */
 
 public class InsertionSort {
-    //插入排序
-    public static int[] insertSort(int[] arr) {
-        int insertVal = 0;
-        int insertIndex = 0;
-        //使用for循环来把代码简化
-        for (int i = 1; i < arr.length; i++) {
-            //定义待插入的数
-            insertVal = arr[i];
-            // 即arr[1]的前面这个数的下标
-            insertIndex = i - 1;
 
-            // 给insertVal 找到插入的位置
-            // 说明
-            // 1. insertIndex >= 0 保证在给insertVal 找插入位置，不越界
-            // 2. insertVal < arr[insertIndex] 待插入的数，还没有找到插入位置
-            // 3. 就需要将 arr[insertIndex] 后移
-            while (insertIndex >= 0 && insertVal < arr[insertIndex]) {
-                arr[insertIndex + 1] = arr[insertIndex];
-                insertIndex--;
-            }
-            // 当退出while循环时，说明插入的位置找到, insertIndex + 1
-            // 举例：理解不了，我们一会 debug
-            //这里我们判断是否需要赋值
-            if (insertIndex + 1 != i) {
-                arr[insertIndex + 1] = insertVal;
+    public static void insertAsc(int[] arr) {
+
+        for (int i = 1; i < arr.length; i++) {
+            //左边的数组序数是arr[0-i) 每次遍历完扩容为 [0-i]
+            //遍历有序数组
+            for (int j = 0; j < i; j++) {
+                //定义要插入左边的元素left
+                int left = arr[i];
+                    //如果有这个数小那就插在arr[j]前面
+                if (arr[i] <= arr[j]) {
+                    //这个数后面元素后移 腾出一个位置
+                    for (int k = i; k > j; k--) {
+                        arr[k] = arr[k - 1];
+                    }
+                    //将要插入有序数组一边的数插进去
+                    arr[j] = left;
+                }
             }
         }
-        return arr;
+    }
+
+    public static void selectDesc(int[] arr) {
+        for (int i = 1; i < arr.length; i++) {
+            //左边的数组序数是arr[0-i) 每次遍历完扩容为 [0-i]
+            //遍历有序数组
+            for (int j = 0; j < i; j++) {
+                int left = arr[i];
+                if (arr[i] >= arr[j]) {
+                    //说明这个数小那就插在arr[j]前面
+                    for (int k = i; k > j; k--) {
+                        arr[k] = arr[k - 1];
+                    }
+                    //将要插入有序数组一边的数插进去
+                    arr[j] = left;
+                }
+            }
+        }
+    }
+    public static void main(String[] args) {
+        int[] arr = {4, 5, 5, 6, 0, 1, 6, 1, 2, 3, 7, 8, 9};
+        System.out.println(Arrays.toString(arr));
+        insertAsc(arr);
+        System.out.println("-----------------------");
+        System.out.println(Arrays.toString(arr));
+        System.out.println("-----------------------");
+         selectDesc(arr);
+        System.out.println(Arrays.toString(arr));
     }
 }
+
+
+
