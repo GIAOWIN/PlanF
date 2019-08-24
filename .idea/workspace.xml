@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/FibonacciSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/InsertValueSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/SequenceSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,11 +22,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/RadixSort.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/SequenceSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+            <state relative-caret-position="78">
+              <caret line="3" column="7" lean-forward="true" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="21" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/InsertValueSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="7" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/FibonacciSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-962">
+              <caret line="5" column="9" selection-end-line="102" />
             </state>
           </provider>
         </entry>
@@ -58,6 +88,12 @@
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/SellSort.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/RadixSort.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/Sequence.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/Test.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/SequenceSearch.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/InsertValueSearch.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/FibonacciSearch.java" />
       </list>
     </option>
   </component>
@@ -132,6 +168,17 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yuan" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yuan" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
@@ -244,13 +291,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RadixSort">
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.sort.InsertionSort" />
+  <component name="RunManager" selected="Application.FibonacciSearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.search.BinarySearch" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.sort.*" />
+          <option name="PATTERN" value="com.yuan.common.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.sort.MergeSort" />
+    <configuration name="FibonacciSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.search.FibonacciSearch" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.sort.*" />
+          <option name="PATTERN" value="com.yuan.common.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.sort.QuickSort" />
+    <configuration name="InsertValueSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.search.InsertValueSearch" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.sort.*" />
+          <option name="PATTERN" value="com.yuan.common.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.sort.RadixSort" />
+    <configuration name="SequenceSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.search.SequenceSearch" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.sort.*" />
+          <option name="PATTERN" value="com.yuan.common.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +344,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.sort.SellSort" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.search.Test" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.sort.*" />
+          <option name="PATTERN" value="com.yuan.common.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RadixSort" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.SellSort" />
-        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.FibonacciSearch" />
+        <item itemvalue="Application.InsertValueSearch" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SequenceSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +383,7 @@
       <workItem from="1566353146231" duration="2416000" />
       <workItem from="1566435091415" duration="22561000" />
       <workItem from="1566525328502" duration="26919000" />
-      <workItem from="1566609226296" duration="9604000" />
+      <workItem from="1566609226296" duration="21513000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -380,11 +427,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566569221544</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="没更新">
+      <created>1566624072620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566624072620</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64205000" />
+    <option name="totallyTimeSpent" value="76114000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,7 +453,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20911528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20911528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -430,7 +484,7 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Run" order="10" weight="0.36461127" />
+      <window_info anchor="right" id="Run" order="10" weight="0.7479893" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +536,8 @@
     <MESSAGE value="添加了部分数据结构和算法" />
     <MESSAGE value="添加了部分数据结构和算法2" />
     <MESSAGE value="添加了部分数据结构和算法3" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了部分数据结构和算法3" />
+    <MESSAGE value="没更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="没更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -612,23 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/SellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="60" />
-          <folding>
-            <element signature="docComment;method#shellAsc#0;class#SellSort#0" />
-            <element signature="method#shellAsc#0;class#SellSort#0" />
-            <element signature="docComment;method#shellDesc#0;class#SellSort#0" />
-            <element signature="method#shellDesc#0;class#SellSort#0" />
-            <element signature="docComment;method#shellEXAsc#0;class#SellSort#0" />
-            <element signature="method#shellEXAsc#0;class#SellSort#0" />
-            <element signature="docComment;method#shellEXDesc#0;class#SellSort#0" />
-            <element signature="method#shellEXDesc#0;class#SellSort#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -647,6 +685,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/SellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="60" />
+          <folding>
+            <element signature="docComment;method#shellAsc#0;class#SellSort#0" />
+            <element signature="method#shellAsc#0;class#SellSort#0" />
+            <element signature="docComment;method#shellDesc#0;class#SellSort#0" />
+            <element signature="method#shellDesc#0;class#SellSort#0" />
+            <element signature="docComment;method#shellEXAsc#0;class#SellSort#0" />
+            <element signature="method#shellEXAsc#0;class#SellSort#0" />
+            <element signature="docComment;method#shellEXDesc#0;class#SellSort#0" />
+            <element signature="method#shellEXDesc#0;class#SellSort#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2410#2419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/SequenceSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="7" lean-forward="true" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="21" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/InsertValueSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="7" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/FibonacciSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-962">
+          <caret line="5" column="9" selection-end-line="102" />
         </state>
       </provider>
     </entry>
