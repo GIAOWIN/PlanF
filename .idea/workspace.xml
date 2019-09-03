@@ -2,43 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/ArrBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/ThreadedBinaryTreeDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/BinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/BinaryTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/META-INF/DataStructure.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/Emp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/EmpLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/HashTabDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/HashTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/Boy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/ChildrenSingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/JosephuDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/SingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/recursion/Queen8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/FibonacciSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/InsertValueSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/SequenceSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/SellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sparse/SparseArrayUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/BinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/DataNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/queue/QueueTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/queue/QueueTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/Selec1tSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sparse/sparseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/target/classes/com/yuan/io/EasyUtuils.class" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/target/classes/com/yuan/io/EasyUtuils.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/easyUtils/target/" />
@@ -70,49 +39,12 @@
     <favorites_list name="PlanF" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/BinaryTreeDemo.java">
+        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="26" column="7" lean-forward="true" selection-end-line="365" />
-              <folding>
-                <element signature="docComment;field#root#0;class#BinaryTree#0" />
-                <element signature="docComment;method#preOrder#0;class#BinaryTree#0" />
-                <element signature="method#preOrder#0;class#BinaryTree#0" />
-                <element signature="docComment;method#infixOrder#0;class#BinaryTree#0" />
-                <element signature="method#infixOrder#0;class#BinaryTree#0" />
-                <element signature="docComment;method#postOrder#0;class#BinaryTree#0" />
-                <element signature="method#postOrder#0;class#BinaryTree#0" />
-                <element signature="docComment;method#preOrder#0;class#DataNode#0" />
-                <element signature="method#preOrder#0;class#DataNode#0" />
-                <element signature="docComment;method#infixOrder#0;class#DataNode#0" />
-                <element signature="method#infixOrder#0;class#DataNode#0" />
-                <element signature="docComment;method#postOrder#0;class#DataNode#0" />
-                <element signature="method#postOrder#0;class#DataNode#0" />
-                <element signature="docComment;method#preOrderSearch#0;class#DataNode#0" />
-                <element signature="method#preOrderSearch#0;class#DataNode#0" />
-                <element signature="docComment;method#infixOrderSearch#0;class#DataNode#0" />
-                <element signature="method#infixOrderSearch#0;class#DataNode#0" />
-                <element signature="docComment;method#postOrderSearch#0;class#DataNode#0" />
-                <element signature="docComment;method#delNode#0;class#DataNode#0" />
-                <element signature="e#6486#6487#0" expanded="true" />
-                <element signature="e#6511#6512#0" expanded="true" />
-                <element signature="e#6544#6545#0" expanded="true" />
-                <element signature="e#6572#6573#0" expanded="true" />
-                <element signature="e#6603#6604#0" expanded="true" />
-                <element signature="e#6630#6631#0" expanded="true" />
-                <element signature="e#6670#6671#0" expanded="true" />
-                <element signature="e#6702#6703#0" expanded="true" />
-                <element signature="e#6735#6736#0" expanded="true" />
-                <element signature="e#6762#6763#0" expanded="true" />
-                <element signature="e#6804#6805#0" expanded="true" />
-                <element signature="e#6836#6837#0" expanded="true" />
-                <element signature="e#6870#6871#0" expanded="true" />
-                <element signature="e#6898#6899#0" expanded="true" />
-                <element signature="e#6942#6943#0" expanded="true" />
-                <element signature="e#6976#6977#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="130">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -138,7 +70,6 @@
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/queue/ArrayQueue.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/queue/SingleLinkedList.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/StaticDemo.java" />
-        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/recursion/Queen8.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/SelectSort.java" />
@@ -157,6 +88,10 @@
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/binTree.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/BinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/ArrBinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/ThreadedBinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/HeapSort.java" />
       </list>
     </option>
   </component>
@@ -167,9 +102,15 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1050" />
   </component>
@@ -181,8 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,7 +183,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yuan" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
@@ -256,13 +195,6 @@
               <item name="yuan" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
@@ -317,6 +249,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,7 +259,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/easyUtils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project/leyou" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -337,12 +271,18 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1546875" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\PlanF\easyUtils" />
     </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -356,13 +296,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeDemo">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.search.BinarySearch" />
+  <component name="RunManager" selected="Application.EasyUtuils">
+    <configuration name="ArrBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.tree.ArrBinaryTreeDemo" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.search.*" />
+          <option name="PATTERN" value="com.yuan.common.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,7 +315,7 @@
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.tree.*" />
+          <option name="PATTERN" value="com.yuan.common.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.search.FibonacciSearch" />
-      <module name="DataStructure" />
+    <configuration name="EasyUtuils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.io.EasyUtuils" />
+      <module name="easyUtils" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.search.*" />
+          <option name="PATTERN" value="com.yuan.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashTabDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.hashtab.HashTabDemo" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.sort.HeapSort" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.hashtab.*" />
+          <option name="PATTERN" value="com.yuan.common.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,12 +349,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertValueSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.search.InsertValueSearch" />
+    <configuration name="ThreadedBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.tree.ThreadedBinaryTreeDemo" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.search.*" />
+          <option name="PATTERN" value="com.yuan.common.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -424,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EasyUtuils" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.ThreadedBinaryTreeDemo" />
+        <item itemvalue="Application.ArrBinaryTreeDemo" />
         <item itemvalue="Application.BinaryTreeDemo" />
-        <item itemvalue="Application.HashTabDemo" />
-        <item itemvalue="Application.FibonacciSearch" />
-        <item itemvalue="Application.InsertValueSearch" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +391,8 @@
       <workItem from="1566609226296" duration="22166000" />
       <workItem from="1566865727793" duration="10278000" />
       <workItem from="1567215248786" duration="7742000" />
-      <workItem from="1567393793386" duration="3413000" />
+      <workItem from="1567393793386" duration="13290000" />
+      <workItem from="1567475738234" duration="7850000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -516,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566888509675</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="二叉树">
+      <created>1567397308734</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567397308734</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98200000" />
+    <option name="totallyTimeSpent" value="115927000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,7 +483,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.20844504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.24664879" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -560,13 +508,14 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven-2 Build" order="4" />
+      <window_info anchor="right" id="Maven-2 Build" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Run" order="10" weight="0.53351206" />
+      <window_info anchor="right" id="Run" order="10" weight="0.31836462" />
+      <window_info anchor="right" id="RestServices" order="11" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -619,7 +568,8 @@
     <MESSAGE value="添加了部分数据结构和算法2" />
     <MESSAGE value="添加了部分数据结构和算法3" />
     <MESSAGE value="没更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="没更新" />
+    <MESSAGE value="二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -658,18 +608,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easyUtils/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/io/EasyUtuils.java" />
     <entry file="file://$PROJECT_DIR$/easyUtils/src/main/test/com/yuan/io/EasyUtuils.java" />
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/queue/ArrayQueue.java">
@@ -719,13 +657,6 @@
             <element signature="e#877#878#0" expanded="true" />
             <element signature="e#959#960#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -884,10 +815,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/ArrBinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="docComment;field#arr#0;class#ArrBinaryTree#0" />
+            <element signature="docComment;method#preOrder#0;class#ArrBinaryTree#0" />
+            <element signature="docComment;method#preOrder#1;class#ArrBinaryTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/BinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="26" column="7" lean-forward="true" selection-end-line="365" />
+        <state relative-caret-position="361">
+          <caret line="228" column="20" selection-start-line="228" selection-start-column="20" selection-end-line="228" selection-end-column="30" />
           <folding>
             <element signature="docComment;field#root#0;class#BinaryTree#0" />
             <element signature="docComment;method#preOrder#0;class#BinaryTree#0" />
@@ -897,34 +840,90 @@
             <element signature="docComment;method#postOrder#0;class#BinaryTree#0" />
             <element signature="method#postOrder#0;class#BinaryTree#0" />
             <element signature="docComment;method#preOrder#0;class#DataNode#0" />
-            <element signature="method#preOrder#0;class#DataNode#0" />
             <element signature="docComment;method#infixOrder#0;class#DataNode#0" />
             <element signature="method#infixOrder#0;class#DataNode#0" />
             <element signature="docComment;method#postOrder#0;class#DataNode#0" />
             <element signature="method#postOrder#0;class#DataNode#0" />
             <element signature="docComment;method#preOrderSearch#0;class#DataNode#0" />
             <element signature="method#preOrderSearch#0;class#DataNode#0" />
-            <element signature="docComment;method#infixOrderSearch#0;class#DataNode#0" />
             <element signature="method#infixOrderSearch#0;class#DataNode#0" />
             <element signature="docComment;method#postOrderSearch#0;class#DataNode#0" />
+            <element signature="method#postOrderSearch#0;class#DataNode#0" />
             <element signature="docComment;method#delNode#0;class#DataNode#0" />
-            <element signature="e#6486#6487#0" expanded="true" />
-            <element signature="e#6511#6512#0" expanded="true" />
-            <element signature="e#6544#6545#0" expanded="true" />
-            <element signature="e#6572#6573#0" expanded="true" />
-            <element signature="e#6603#6604#0" expanded="true" />
-            <element signature="e#6630#6631#0" expanded="true" />
-            <element signature="e#6670#6671#0" expanded="true" />
-            <element signature="e#6702#6703#0" expanded="true" />
-            <element signature="e#6735#6736#0" expanded="true" />
-            <element signature="e#6762#6763#0" expanded="true" />
-            <element signature="e#6804#6805#0" expanded="true" />
-            <element signature="e#6836#6837#0" expanded="true" />
-            <element signature="e#6870#6871#0" expanded="true" />
-            <element signature="e#6898#6899#0" expanded="true" />
-            <element signature="e#6942#6943#0" expanded="true" />
-            <element signature="e#6976#6977#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/ThreadedBinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="102" column="16" selection-start-line="102" selection-start-column="16" selection-end-line="102" selection-end-column="16" />
+          <folding>
+            <element signature="e#1500#1501#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#3937#3938#0" expanded="true" />
+            <element signature="e#3968#3969#0" expanded="true" />
+            <element signature="e#4013#4014#0" expanded="true" />
+            <element signature="e#4053#4054#0" expanded="true" />
+            <element signature="e#4086#4087#0" expanded="true" />
+            <element signature="e#4118#4119#0" expanded="true" />
+            <element signature="e#4165#4166#0" expanded="true" />
+            <element signature="e#4207#4208#0" expanded="true" />
+            <element signature="e#4331#4332#0" expanded="true" />
+            <element signature="e#4356#4357#0" expanded="true" />
+            <element signature="e#4389#4390#0" expanded="true" />
+            <element signature="e#4417#4418#0" expanded="true" />
+            <element signature="e#4448#4449#0" expanded="true" />
+            <element signature="e#4475#4476#0" expanded="true" />
+            <element signature="e#4515#4516#0" expanded="true" />
+            <element signature="e#4547#4548#0" expanded="true" />
+            <element signature="e#4580#4581#0" expanded="true" />
+            <element signature="e#4607#4608#0" expanded="true" />
+            <element signature="e#4649#4650#0" expanded="true" />
+            <element signature="e#4681#4682#0" expanded="true" />
+            <element signature="e#4715#4716#0" expanded="true" />
+            <element signature="e#4743#4744#0" expanded="true" />
+            <element signature="e#4787#4788#0" expanded="true" />
+            <element signature="e#4821#4822#0" expanded="true" />
+            <element signature="e#4867#4868#0" expanded="true" />
+            <element signature="e#4935#4936#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="method#copy#0;class#EasyUtuils#0" />
+            <element signature="method#copyAll#0;class#EasyUtuils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
