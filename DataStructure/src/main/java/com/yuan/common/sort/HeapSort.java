@@ -40,9 +40,6 @@ public class HeapSort {
 
     /**
      * 功能： 完成 将 以 i 对应的非叶子结点的树调整成大顶堆
-     * 举例  int arr[] = {4, 6, 8, 5, 9}; => i = 1 => adjustHeap => 得到 {4, 9, 8, 5, 6}
-     * 如果我们再次调用  adjustHeap 传入的是 i = 0 => 得到 {4, 9, 8, 5, 6} => {9,6,8,5, 4}
-     *
      * @param arr    待调整的数组
      * @param i      表示非叶子结点在数组中索引
      * @param lenght 表示对多少个元素继续调整， length 是在逐渐的减少
@@ -64,7 +61,7 @@ public class HeapSort {
                 i = k;
             }
         }
-        //父节点替换左子节点
+        //循环结束后父节点替换左子节点
         arr[i] = temp;
     }
 
