@@ -2,20 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/huffman/HuffmanCodeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/huffman/HuffmanTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_wanghaomiao_JsoupXpath_0_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml/JsoupDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/resources/a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/resources/student.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/weblearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/ThreadedBinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/ThreadedBinaryTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/HeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ThreadedBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ThreadedBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ThreadedBinaryTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ThreadedBinaryTreeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/META-INF/DataStructure.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/EmpLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/HashTabDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/HashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanCodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/Boy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/ChildrenSingleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/JosephuDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/SingleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/recursion/Queen8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/FibonacciSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/InsertValueSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/SequenceSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/RadixSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/SellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sparse/SparseArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ArrBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ArrBinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/BinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/DataNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ThreadedBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ThreadedBinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/queue/QueueTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/queue/QueueTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/Selec1tSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sparse/sparseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/target/classes/com/yuan/io/EasyUtuils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/target/classes/com/yuan/web/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/target/classes/com/yuan/web/Qwe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/target/classes/com/yuan/web/Something.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/target/classes/com/yuan/web/test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/easyUtils/target/" />
     <ignored path="$PROJECT_DIR$/DataStructure/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructure/WebLearn/target/" />
+    <ignored path="$PROJECT_DIR$/weblearn/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +102,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/huffman/HuffmanCodeDemo.java">
+        <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml/JsoupDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="441" column="16" selection-start-line="441" selection-start-column="16" selection-end-line="441" selection-end-column="16" />
+            <state relative-caret-position="360">
+              <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#decode#0;class#HuffmanCode#0" />
               </folding>
             </state>
           </provider>
@@ -107,6 +163,11 @@
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/web/test.java" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/web/Qwe.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/huffman/HuffmanCodeDemo.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml.java" />
+        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml/xml.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml/JsoupDemo.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/resources/student.xml" />
       </list>
     </option>
   </component>
@@ -144,101 +205,29 @@
           <expand>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="huffman" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="huffman" type="462c0819:PsiDirectoryNode" />
-              <item name="HuffmanCodeDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -246,7 +235,7 @@
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -255,23 +244,31 @@
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yuan" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yuan" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,7 +282,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project/leyou" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/weblearn/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -304,6 +302,7 @@
       <recent name="com.yuan.common.sort" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PlanF\weblearn\src\main\resources" />
       <recent name="F:\PlanF\easyUtils" />
     </key>
   </component>
@@ -325,20 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HuffmanCodeDemo">
-    <configuration name="EasyUtuils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.io.EasyUtuils" />
-      <module name="easyUtils" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yuan.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JsoupDemo">
     <configuration name="HuffmanCodeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuan.common.huffman.HuffmanCodeDemo" />
       <module name="DataStructure" />
@@ -358,6 +344,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuan.common.huffman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsoupDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.web.xml.JsoupDemo" />
+      <module name="weblearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.web.xml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,11 +392,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsoupDemo" />
         <item itemvalue="Application.HuffmanCodeDemo" />
         <item itemvalue="Application.Qwe" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.HuffmanTreeDemo" />
-        <item itemvalue="Application.EasyUtuils" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +422,7 @@
       <workItem from="1567393793386" duration="13290000" />
       <workItem from="1567475738234" duration="11982000" />
       <workItem from="1567564099366" duration="10507000" />
-      <workItem from="1567648498749" duration="17886000" />
+      <workItem from="1567648498749" duration="23184000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -499,7 +498,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148452000" />
+    <option name="totallyTimeSpent" value="153750000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,14 +511,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972299" visible="true" weight="0.24530831" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972299" weight="0.24530831" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info active="true" id="Structure" order="5" sideWeight="0.50277007" side_tool="true" visible="true" weight="0.24530831" />
+      <window_info id="Structure" order="5" sideWeight="0.50277007" side_tool="true" weight="0.24530831" />
       <window_info id="Favorites" order="6" sideWeight="0.50138503" side_tool="true" weight="0.20844504" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -545,7 +543,7 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Run" order="10" weight="0.73458445" />
+      <window_info anchor="right" id="Run" order="10" weight="0.66957104" />
       <window_info anchor="right" id="RestServices" order="11" weight="0.3297587" />
     </layout>
   </component>
@@ -987,6 +985,67 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#decode#0;class#HuffmanCode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/WebLearn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar!/org/jsoup/nodes/Element.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="473" column="18" selection-start-line="473" selection-start-column="18" selection-end-line="473" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar!/org/jsoup/Jsoup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/resources/a.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/wanghaomiao/JsoupXpath/0.3.2/JsoupXpath-0.3.2.jar!/cn/wanghaomiao/xpath/model/JXNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/resources/student.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml/JsoupDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

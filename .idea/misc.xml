@@ -31,6 +31,7 @@
       <list>
         <option value="$PROJECT_DIR$/easyUtils/pom.xml" />
         <option value="$PROJECT_DIR$/DataStructure/pom.xml" />
+        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
       </list>
     </option>
   </component>

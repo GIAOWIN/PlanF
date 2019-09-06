@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/easyUtils/easyUtils.iml" filepath="$PROJECT_DIR$/easyUtils/easyUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weblearn/weblearn.iml" filepath="$PROJECT_DIR$/weblearn/weblearn.iml" />
     </modules>
   </component>
 </project>
