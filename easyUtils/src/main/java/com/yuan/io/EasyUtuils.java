@@ -9,9 +9,9 @@ public class EasyUtuils {
 
     public static void main(String[] args) {
 
-        File target = new File("D:\\IDEA JAVA\\乐优商城《项目笔记》");
-        String destination = "C:\\Users\\ASUS\\Desktop\\like";
-        String type = ".pdf";
+        File target = new File("D:\\PlanG\\JavaEE\\JavaWeb\\cxf");
+        String destination = "C:\\Users\\ASUS\\Desktop\\cxf\\txt";
+        String type = ".txt";
         copyAll(target,destination,type);
     }
     /**
