@@ -6,15 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="weblearn" />
         <module name="easyUtils" />
+        <module name="weblearn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DataStructure" target="7" />
       <module name="easyUtils" target="7" />
       <module name="WebLearn" target="7" />
-      <module name="weblearn" target="1.5" />
+      <module name="weblearn" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

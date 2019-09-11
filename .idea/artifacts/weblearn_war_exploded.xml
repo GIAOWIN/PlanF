@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="weblearn:war exploded">
+    <output-path>$PROJECT_DIR$/weblearn/target/weblearn</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>weblearn</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="weblearn" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.8.3" />
+          <element id="library" level="project" name="Maven: cn.wanghaomiao:JsoupXpath:0.3.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.3.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/weblearn/target/weblearn/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="weblearn/web/Web" />
+    </root>
+  </artifact>
+</component>
