@@ -7,8 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/二分查找算法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/分治算法.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/graph/GraphDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/graph/GraphDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/graph/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/graph/Graph.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/easyUtils/target/" />
@@ -44,20 +46,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/graph/GraphDemo.java">
+        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/分治算法.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="146" column="38" lean-forward="true" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+            <state relative-caret-position="52">
+              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1447#1448#0" expanded="true" />
-                <element signature="e#1483#1484#0" expanded="true" />
-                <element signature="e#1582#1583#0" expanded="true" />
-                <element signature="e#1622#1623#0" expanded="true" />
-                <element signature="e#1733#1734#0" expanded="true" />
-                <element signature="e#1777#1778#0" expanded="true" />
-                <element signature="e#1886#1887#0" expanded="true" />
-                <element signature="e#1922#1923#0" expanded="true" />
+                <element signature="e#99#100#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,12 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/queue/ArrayQueue.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/queue/SingleLinkedList.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/StaticDemo.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/recursion/Queen8.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/SelectSort.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sort/SellSort.java" />
@@ -136,6 +125,12 @@
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/BServlet.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/graph/Graph.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/graph/GraphDemo.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/Test.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/Solution.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/SolutionImpl.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/Main.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/二分查找算法.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/分治算法.java" />
       </list>
     </option>
   </component>
@@ -191,7 +186,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,42 +240,48 @@
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="GraphDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="sparse" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,6 +310,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.yuan.common.sort" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yuan.common" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\PlanF\weblearn\src\main" />
       <recent name="F:\PlanF\weblearn\src\main\resources" />
@@ -334,13 +337,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GraphDemo">
+  <component name="RunManager" selected="Application.分治算法">
+    <configuration name="二分查找算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.二分查找算法" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.common.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分治算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.分治算法" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.common.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GraphDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuan.common.graph.GraphDemo" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuan.common.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.Main" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.Solution" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -564,6 +619,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.分治算法" />
+        <item itemvalue="Application.二分查找算法" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.GraphDemo" />
       </list>
     </recent_temporary>
@@ -596,7 +655,9 @@
       <workItem from="1567910704410" duration="9931000" />
       <workItem from="1567998228213" duration="2681000" />
       <workItem from="1568205565050" duration="5183000" />
-      <workItem from="1568250781127" duration="2490000" />
+      <workItem from="1568250781127" duration="12539000" />
+      <workItem from="1568277319197" duration="1605000" />
+      <workItem from="1568335886073" duration="1910000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -686,7 +747,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201014000" />
+    <option name="totallyTimeSpent" value="214578000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -701,12 +762,12 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6108033" visible="true" weight="0.2419571" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6108033" visible="true" weight="0.24128686" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info active="true" id="Structure" order="5" sideWeight="0.38919666" side_tool="true" visible="true" weight="0.2419571" />
+      <window_info id="Structure" order="5" sideWeight="0.38919666" side_tool="true" weight="0.2419571" />
       <window_info id="Favorites" order="6" sideWeight="0.19944598" side_tool="true" weight="0.24396783" />
       <window_info id="Web" order="7" sideWeight="0.19944598" side_tool="true" weight="0.24396783" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
@@ -717,14 +778,14 @@
       <window_info anchor="bottom" id="Find" order="5" weight="0.32963988" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.5692521" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.33240998" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32963988" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32963988" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49731904" weight="0.57479227" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50268096" side_tool="true" weight="0.59455585" />
-      <window_info active="true" anchor="bottom" id="Run" order="15" visible="true" weight="0.61772853" />
+      <window_info anchor="bottom" id="Run" order="15" weight="0.61772853" />
       <window_info anchor="bottom" id="Application Servers" order="16" weight="0.32963988" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -865,78 +926,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/JavaToos/Jdk/jdk8/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/soap/impl/CDATAImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JavaToos/Jdk/jdk8/src.zip!/javax/xml/soap/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JavaToos/Jdk/jdk8/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="636" column="45" lean-forward="true" selection-start-line="636" selection-start-column="45" selection-end-line="636" selection-end-column="45" />
-          <folding>
-            <element signature="e#19296#19297#0" expanded="true" />
-            <element signature="e#19379#19380#0" expanded="true" />
-            <element signature="e#24298#24299#0" expanded="true" />
-            <element signature="e#24363#24364#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JavaToos/Jdk/jdk8/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="218" column="21" selection-start-line="218" selection-start-column="21" selection-end-line="218" selection-end-column="21" />
-          <folding>
-            <element signature="e#3709#3710#0" expanded="true" />
-            <element signature="e#3746#3747#0" expanded="true" />
-            <element signature="e#8033#8034#0" expanded="true" />
-            <element signature="e#8081#8082#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/hashtab/HashTabDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="160" column="15" selection-start-line="160" selection-start-column="15" selection-end-line="160" selection-end-column="15" />
-          <folding>
-            <element signature="docComment;method#getLinkedNo#0;class#HashTable#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/queue/SingleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2730">
-          <caret line="105" column="6" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="12" column="35" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/easyUtils/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/ArrBinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1122,6 +1126,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-226">
           <caret line="89" column="42" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
@@ -1130,7 +1135,6 @@
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/GenericServlet.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1211,8 +1215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/graph/GraphDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="146" column="38" lean-forward="true" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+        <state relative-caret-position="152">
+          <caret line="147" column="9" lean-forward="true" selection-start-line="147" selection-start-column="9" selection-end-line="147" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1447#1448#0" expanded="true" />
@@ -1223,6 +1227,34 @@
             <element signature="e#1777#1778#0" expanded="true" />
             <element signature="e#1886#1887#0" expanded="true" />
             <element signature="e#1922#1923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/SolutionImpl.java" />
+    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="548" column="39" selection-start-line="548" selection-start-column="39" selection-end-line="548" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/Main.java" />
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/二分查找算法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/分治算法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
           </folding>
         </state>
       </provider>
