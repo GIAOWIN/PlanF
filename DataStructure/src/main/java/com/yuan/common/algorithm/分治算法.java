@@ -4,6 +4,7 @@ public class 分治算法 {
     public static void main(String[] args) {
         hanoiTower(10, 'A', 'B', 'C');
     }
+
     public static void hanoiTower(int num, char a, char b, char c) {
         //如果只移动一个
         if(num==1){
@@ -18,4 +19,5 @@ public class 分治算法 {
             hanoiTower(num-1,b,a,c);
         }
     }
+
 }
