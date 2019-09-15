@@ -13,7 +13,6 @@
     <bytecodeTargetLevel>
       <module name="DataStructure" target="7" />
       <module name="easyUtils" target="7" />
-      <module name="WebLearn" target="7" />
       <module name="weblearn" target="1.8" />
     </bytecodeTargetLevel>
   </component>
