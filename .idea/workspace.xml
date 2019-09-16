@@ -7,17 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/动态规划.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/AServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/BServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/DServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KMP算法.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/META-INF/DataStructure.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/分治算法.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/分治算法.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/AServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/CServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/BServlet.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/easyUtils/target/" />
@@ -53,10 +44,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/动态规划.java">
+        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KMP算法.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1274">
-              <caret line="1" lean-forward="true" selection-end-line="71" />
+            <state relative-caret-position="542">
+              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -83,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/BinarySearch.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/SequenceSearch.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/InsertValueSearch.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/FibonacciSearch.java" />
@@ -134,6 +124,7 @@
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/CServlet.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/DServlet.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/动态规划.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KMP算法.java" />
       </list>
     </option>
   </component>
@@ -302,22 +293,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.动态规划">
+  <component name="RunManager" selected="Application.KMP算法">
     <configuration name="二分查找算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.二分查找算法" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yuan.common.algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="动态规划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.动态规划" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -335,6 +313,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuan.common.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMP算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.KMP算法" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.common.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,6 +352,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuan.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="动态规划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.动态规划" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.common.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -597,7 +601,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.动态规划" />
+        <item itemvalue="Application.KMP算法" />
         <item itemvalue="Application.二分查找算法" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
@@ -637,6 +641,7 @@
       <workItem from="1568277319197" duration="1605000" />
       <workItem from="1568335886073" duration="8854000" />
       <workItem from="1568514109673" duration="5331000" />
+      <workItem from="1568593880468" duration="5080000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -733,7 +738,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226853000" />
+    <option name="totallyTimeSpent" value="231933000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -746,6 +751,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75069255" weight="0.24061662" />
       <window_info id="Designer" order="1" />
@@ -912,17 +918,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/JavaToos/Jdk/jdk8/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4124">
-          <caret line="308" column="26" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
-          <folding>
-            <element signature="e#10902#10903#0" expanded="true" />
-            <element signature="e#10948#10949#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/JavaToos/Jdk/jdk8/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -1215,8 +1210,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/动态规划.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1274">
-          <caret line="1" lean-forward="true" selection-end-line="71" />
+        <state relative-caret-position="-940">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KMP算法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
         </state>
       </provider>
     </entry>
