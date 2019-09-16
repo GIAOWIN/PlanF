@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KMP算法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/贪心算法.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,17 +42,7 @@
     <favorites_list name="PlanF" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KMP算法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,6 +56,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>SC_METHOD_NOT_ALLOWED</find>
+      <find>·</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/SequenceSearch.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/InsertValueSearch.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/search/FibonacciSearch.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/hashtab/HashTabDemo.java" />
@@ -125,6 +115,7 @@
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/DServlet.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/动态规划.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KMP算法.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/贪心算法.java" />
       </list>
     </option>
   </component>
@@ -233,6 +224,14 @@
               <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -245,6 +244,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/weblearn/pom.xml" />
@@ -293,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KMP算法">
+  <component name="RunManager" selected="Application.贪心算法">
     <configuration name="二分查找算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.二分查找算法" />
       <module name="DataStructure" />
@@ -307,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.graph.GraphDemo" />
+    <configuration name="贪心算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.贪心算法" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.graph.*" />
+          <option name="PATTERN" value="com.yuan.common.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -601,11 +601,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.贪心算法" />
         <item itemvalue="Application.KMP算法" />
         <item itemvalue="Application.二分查找算法" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.GraphDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -641,7 +641,7 @@
       <workItem from="1568277319197" duration="1605000" />
       <workItem from="1568335886073" duration="8854000" />
       <workItem from="1568514109673" duration="5331000" />
-      <workItem from="1568593880468" duration="5080000" />
+      <workItem from="1568593880468" duration="13508000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -738,7 +738,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231933000" />
+    <option name="totallyTimeSpent" value="240361000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -751,7 +751,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75069255" weight="0.24061662" />
       <window_info id="Designer" order="1" />
@@ -769,14 +768,14 @@
       <window_info anchor="bottom" id="Find" order="5" weight="0.32963988" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.33240998" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.40858725" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32963988" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32963988" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49731904" weight="0.57479227" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50268096" side_tool="true" weight="0.59455585" />
-      <window_info anchor="bottom" id="Run" order="15" weight="0.61772853" />
+      <window_info anchor="bottom" id="Run" order="15" weight="0.7617729" />
       <window_info anchor="bottom" id="Application Servers" order="16" weight="0.32963988" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -916,15 +915,14 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="hashSet4" />
+        <watch expression="hashSet4" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/JavaToos/Jdk/jdk8/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="383" column="10" selection-start-line="383" selection-start-column="10" selection-end-line="383" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/huffman/HuffmanTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
@@ -1217,8 +1215,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KMP算法.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        <state relative-caret-position="910">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/贪心算法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2154">
+          <caret line="100" column="33" lean-forward="true" selection-start-line="100" selection-start-column="33" selection-end-line="100" selection-end-column="33" />
+          <folding>
+            <element signature="e#242#267#0" expanded="true" />
+            <element signature="e#346#354#0" expanded="true" />
+            <element signature="e#489#497#0" expanded="true" />
+            <element signature="e#632#640#0" expanded="true" />
+            <element signature="e#776#784#0" expanded="true" />
+            <element signature="e#891#899#0" expanded="true" />
+            <element signature="e#1282#1290#0" expanded="true" />
+            <element signature="e#1646#1654#0" expanded="true" />
+            <element signature="e#1763#1771#0" expanded="true" />
+            <element signature="e#2017#2025#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
