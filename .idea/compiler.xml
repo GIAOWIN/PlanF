@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DataStructure" target="7" />
+      <module name="DataStructure" target="8" />
       <module name="easyUtils" target="7" />
       <module name="weblearn" target="1.8" />
     </bytecodeTargetLevel>
