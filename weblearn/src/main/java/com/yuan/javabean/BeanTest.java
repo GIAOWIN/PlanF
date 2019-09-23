@@ -1,7 +1,6 @@
 package com.yuan.javabean;
 
-import cn.wanghaomiao.xpath.util.CommonUtil;
-import com.yuan.util.CommonUtils;
+import com.yuan.commons.CommonUtils;
 import org.apache.commons.beanutils.BeanUtils;
 import org.junit.jupiter.api.Test;
 

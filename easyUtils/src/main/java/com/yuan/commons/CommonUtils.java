@@ -1,4 +1,4 @@
-package com.yuan.util;
+package com.yuan.commons;
 
 import org.apache.commons.beanutils.BeanUtils;
 

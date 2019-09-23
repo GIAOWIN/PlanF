@@ -7,15 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="增加了分治算法和二分查找">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/mytag.tld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/jstl.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/tldTest.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/EasyUtuilsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/weblearn_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/weblearn_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblearn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/commons/CommonUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblearn/weblearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/weblearn.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,50 +49,7 @@
     <favorites_list name="PlanF" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="14" column="26" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/mytag.tld">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="21" column="8" selection-end-line="23" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/tldTest.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="7" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,9 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/Main.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/二分查找算法.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/分治算法.java" />
         <option value="$PROJECT_DIR$/DataStructure/pom.xml" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/BServlet.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/CServlet.java" />
@@ -138,7 +91,6 @@
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/Knight.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KnightDemo.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/HorseChessboard.java" />
-        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/普利姆算法.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KruskalCase.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KruskalCaseDemo.java" />
@@ -156,11 +108,9 @@
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/AServlet.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/Person.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/function/MyFunction.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/myfunction.tld" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/funTest.jsp" />
-        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/jstl.jsp" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagOne.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tld/tagOne.tld" />
@@ -168,6 +118,12 @@
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagTwo.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/mytag.tld" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/tldTest.jsp" />
+        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/EasyUtuilsTest.java" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/commons/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/easyUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java" />
       </list>
     </option>
   </component>
@@ -202,7 +158,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -216,109 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="tag" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="tlds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -348,6 +202,9 @@
     <property name="settings.editor.splitter.proportion" value="0.16309291" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yuan.commons" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\PlanF\weblearn\src\main\webapp\WEB-INF\tlds" />
     </key>
@@ -783,7 +640,7 @@
       <workItem from="1568886264997" duration="3285000" />
       <workItem from="1569044627971" duration="6620000" />
       <workItem from="1569159338549" duration="3235000" />
-      <workItem from="1569204606009" duration="9631000" />
+      <workItem from="1569204606009" duration="10334000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -891,7 +748,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298725000" />
+    <option name="totallyTimeSpent" value="299428000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -903,7 +760,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -928,7 +785,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49731904" weight="0.57479227" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50268096" side_tool="true" weight="0.59455585" />
-      <window_info anchor="bottom" id="Run" order="15" visible="true" weight="0.45429364" />
+      <window_info anchor="bottom" id="Run" order="15" weight="0.45429364" />
       <window_info anchor="bottom" id="Application Servers" order="16" weight="0.32963988" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1084,29 +941,6 @@
     <SUITE FILE_PATH="coverage/PlanF$WebLearn.ic" NAME="WebLearn Coverage Results" MODIFIED="1569049876750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/weblearn/target/classes/com/yuan/web/response/DServlet.class" />
-    <entry file="file://$PROJECT_DIR$/weblearn/target/classes/com/yuan/web/response/EServlet.class" />
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/BServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="26" column="12" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/AServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="25" column="22" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/DServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
@@ -1208,13 +1042,6 @@
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4686" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/普利姆算法.java">
@@ -1348,44 +1175,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="46" column="11" selection-end-line="57" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-jsptaglibrary_2_0.xsd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
@@ -1439,18 +1228,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/jsp-api/2.0/jsp-api-2.0.jar!/javax/servlet/jsp/tagext/SimpleTagSupport.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/mytag.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="21" column="8" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1464,13 +1266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/mytag.tld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="8" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/tldTest.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -1478,10 +1273,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagTwo.java">
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="26" selection-end-line="18" />
+        <state relative-caret-position="208">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/EasyUtuilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="32" column="21" selection-start-line="21" selection-start-column="7" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/commons/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

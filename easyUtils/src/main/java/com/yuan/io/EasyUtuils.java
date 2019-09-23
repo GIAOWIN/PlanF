@@ -7,13 +7,6 @@ import java.io.*;
  */
 public class EasyUtuils {
 
-    public static void main(String[] args) {
-
-        File target = new File("D:\\PlanG\\JavaEE\\JavaWeb\\class\\JavaWeb\\");
-        String destination = "C:\\Users\\ASUS\\Desktop\\cxf\\new";
-        String type = ".md";
-        copyAll(target,destination,type);
-    }
     /**
      * 复制一个文件
      * @param target      目标

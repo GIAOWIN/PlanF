@@ -77,6 +77,13 @@
             <version>RELEASE</version>
             <scope>compile</scope>
         </dependency>
+
+        <!-- 小工具 -->
+        <dependency>
+            <groupId>com.yuan</groupId>
+            <artifactId>easyUtils</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -139,4 +146,7 @@
             </plugins>
         </pluginManagement>
     </build>
+
+
+
 </project>
