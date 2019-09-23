@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<taglib xmlns="http://java.sun.com/xml/ns/javaee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+        version="2.1">
+
+    <tlib-version>1.0</tlib-version>
+    <short-name>yuan</short-name>
+    <uri>http://www.yuan.com/jsp/jstl/core</uri>
+
+    <tag>
+        <name>tagOne</name>
+        <tag-class>com.yuan.web.tag.MyTagOne</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <!--标签名-->
+        <name>tagTwo</name>
+        <tag-class>com.yuan.web.tag.MyTagTwo</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+</taglib>
