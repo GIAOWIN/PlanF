@@ -7,15 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="增加了分治算法和二分查找">
-      <change afterPath="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/EasyUtuilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/weblearn_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/weblearn_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblearn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/commons/CommonUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/weblearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/weblearn.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/easyUtils/target/" />
@@ -49,7 +41,30 @@
     <favorites_list name="PlanF" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="72" column="19" lean-forward="true" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+              <folding>
+                <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" />
+                <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" />
+                <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" />
+                <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" />
+                <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" />
+                <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" />
+                <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" />
+                <element signature="n#dependency#7;n#dependencies#0;n#project#0;n#!!top" />
+                <element signature="n#dependency#9;n#dependencies#0;n#project#0;n#!!top" />
+                <element signature="n#build#0;n#project#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -118,12 +133,12 @@
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagTwo.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/mytag.tld" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/tldTest.jsp" />
-        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/EasyUtuilsTest.java" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/commons/CommonUtils.java" />
         <option value="$PROJECT_DIR$/easyUtils/pom.xml" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java" />
+        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
       </list>
     </option>
   </component>
@@ -158,7 +173,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -172,7 +187,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -640,7 +665,7 @@
       <workItem from="1568886264997" duration="3285000" />
       <workItem from="1569044627971" duration="6620000" />
       <workItem from="1569159338549" duration="3235000" />
-      <workItem from="1569204606009" duration="10334000" />
+      <workItem from="1569204606009" duration="10865000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -748,7 +773,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299428000" />
+    <option name="totallyTimeSpent" value="299959000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -760,7 +785,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -1301,14 +1327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="32" column="21" selection-start-line="21" selection-start-column="7" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-28">
@@ -1351,6 +1369,26 @@
           <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="72" column="19" lean-forward="true" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+          <folding>
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#7;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#9;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#build#0;n#project#0;n#!!top" />
           </folding>
         </state>
       </provider>
