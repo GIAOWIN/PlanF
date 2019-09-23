@@ -7,75 +7,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="增加了分治算法和二分查找">
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/EData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/HorseChessboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/KMP算法.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/Knight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/KnightDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/KruskalCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/KruskalCaseDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/MGraph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/MinTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/二分查找算法.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/分治算法.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/动态规划.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/普利姆算法.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/algorithm/贪心算法.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/graph/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/graph/GraphDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/Emp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/EmpLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/HashTabDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/hashtab/HashTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanCodeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/HuffmanTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/huffman/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/Boy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/ChildrenSingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/JosephuDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/queue/SingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/recursion/Queen8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/FibonacciSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/InsertValueSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/search/SequenceSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sort/SellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/sparse/SparseArrayUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ArrBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ArrBinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/BinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/DataNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ThreadedBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/ThreadedBinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/avl/AVLTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/avl/AVLTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/avl/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/bst/BinarySortTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/bst/BinarySortTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/classes/com/yuan/common/tree/bst/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/queue/QueueTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/queue/QueueTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/Selec1tSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sort/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/target/test-classes/com/yuan/common/sparse/sparseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/target/classes/com/yuan/io/EasyUtuils.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/session/AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/session/BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/addCookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/addSession.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/getCookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/getSession.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/weblearn_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/weblearn_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblearn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblearn/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblearn/weblearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/weblearn.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/easyUtils/target/" />
@@ -110,15 +63,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/Dijkstra.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="109" column="24" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
+            <state relative-caret-position="360">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding>
-                <element signature="e#1417#1418#0" expanded="true" />
-                <element signature="e#1442#1443#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="46" column="11" selection-end-line="57" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="29" column="24" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="32" column="21" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="32" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -146,21 +140,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml/xml.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml/JsoupDemo.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/resources/student.xml" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/avl/AAVLTreeDemo.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/bst/BinarySortTreeDemo.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/tree/avl/AVLTreeDemo.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/AServlet.http" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servletAServlet.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servle/servletAServlet.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/servletAServlet.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/JsoupDemo.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/AServlet.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/AServlet.java" />
-        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/MyServlet.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/BServlet.java" />
@@ -184,7 +165,6 @@
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/BServlet.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/DServlet.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/CServlet.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/FServlet.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/EServlet.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/骑士.java" />
@@ -197,6 +177,20 @@
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/KruskalCaseDemo.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/DijkstraDemo.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/BServlet.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/webapp/getCookie.jsp" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/webapp/addCookie.jsp" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/session/BServlet.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/webapp/addSession.jsp" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/webapp/getSession.jsp" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/session/AServlet.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/klasd.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/AServlet.java" />
+        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/Person.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java" />
       </list>
     </option>
   </component>
@@ -245,7 +239,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,7 +289,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yuan" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
@@ -306,6 +299,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -317,7 +311,7 @@
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/weblearn/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/weblearn/src/main/webapp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -337,13 +331,14 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.yuan.common.sort" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.yuan.common" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PlanF\weblearn\src\main\webapp" />
       <recent name="F:\PlanF\weblearn\src\main" />
       <recent name="F:\PlanF\weblearn\src\main\resources" />
       <recent name="F:\PlanF\easyUtils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yuan.common" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -364,13 +359,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KruskalCaseDemo">
+  <component name="RunManager" selected="JUnit.BeanTest.test3">
     <configuration name="普利姆算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.普利姆算法" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.common.algorithm.*" />
+          <option name="PATTERN" value="com.yuan.common.algorithm.Knight" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,19 +379,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yuan.common.algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="普利姆算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.common.algorithm.普利姆算法" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yuan.common.algorithm.Knight" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -439,6 +421,67 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="klasd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.web.cookie.klasd" />
+      <module name="weblearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.web.cookie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weblearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.javabean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuan.javabean" />
+      <option name="MAIN_CLASS_NAME" value="com.yuan.javabean.BeanTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weblearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.javabean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuan.javabean" />
+      <option name="MAIN_CLASS_NAME" value="com.yuan.javabean.BeanTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weblearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.javabean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuan.javabean" />
+      <option name="MAIN_CLASS_NAME" value="com.yuan.javabean.BeanTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -661,12 +704,19 @@
     <list>
       <item itemvalue="Application.普利姆算法" />
       <item itemvalue="Application.KruskalCaseDemo" />
+      <item itemvalue="Application.klasd" />
+      <item itemvalue="JUnit.BeanTest.test1" />
+      <item itemvalue="JUnit.BeanTest.test2" />
+      <item itemvalue="JUnit.BeanTest.test3" />
       <item itemvalue="Tomcat Server.WebLearn" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BeanTest.test3" />
+        <item itemvalue="JUnit.BeanTest.test2" />
+        <item itemvalue="JUnit.BeanTest.test1" />
+        <item itemvalue="Application.klasd" />
         <item itemvalue="Application.KruskalCaseDemo" />
-        <item itemvalue="Application.普利姆算法" />
       </list>
     </recent_temporary>
   </component>
@@ -707,7 +757,8 @@
       <workItem from="1568774168574" duration="6730000" />
       <workItem from="1568858023035" duration="1611000" />
       <workItem from="1568886264997" duration="3285000" />
-      <workItem from="1569044627971" duration="298000" />
+      <workItem from="1569044627971" duration="6620000" />
+      <workItem from="1569159338549" duration="3235000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -803,8 +854,19 @@
     <option name="localTasksCounter" value="14" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BeanTest_test1 - 2019.09.22 at 21h 55m 40s.xml">
+      <configuration name="BeanTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeanTest_test2 - 2019.09.22 at 22h 08m 27s.xml">
+      <configuration name="BeanTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BeanTest_test3 - 2019.09.22 at 22h 21m 48s.xml">
+      <configuration name="BeanTest.test3" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279537000" />
+    <option name="totallyTimeSpent" value="289094000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -816,16 +878,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.65512466" visible="true" weight="0.2386059" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.3434903" side_tool="true" weight="0.24061662" />
-      <window_info id="Favorites" order="6" sideWeight="0.3434903" side_tool="true" weight="0.24061662" />
-      <window_info id="Web" order="7" sideWeight="0.34487534" side_tool="true" weight="0.24061662" />
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Structure" order="4" sideWeight="0.3434903" side_tool="true" weight="0.24061662" />
+      <window_info id="Favorites" order="5" sideWeight="0.3434903" side_tool="true" weight="0.24061662" />
+      <window_info id="Web" order="6" sideWeight="0.17451523" side_tool="true" visible="true" weight="0.23793566" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.82548475" visible="true" weight="0.23793566" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32963988" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="2" />
@@ -854,6 +916,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
       <window_info anchor="right" id="RestServices" order="10" weight="0.3297587" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3297587" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49584487" visible="true" weight="0.24463807" />
@@ -988,95 +1051,10 @@
       </configuration>
     </watches-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PlanF$WebLearn.ic" NAME="WebLearn Coverage Results" MODIFIED="1569049876750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-226">
-          <caret line="89" column="42" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
-          <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/GenericServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="91" column="37" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="599" column="49" selection-start-line="599" selection-start-column="28" selection-end-line="599" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="349" column="7" lean-forward="true" selection-start-line="349" selection-start-column="7" selection-end-line="349" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/sparse/SparseArrayUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/MyServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/BServlet.java" />
-    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="152" column="36" selection-start-line="152" selection-start-column="36" selection-end-line="152" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="664" column="16" selection-start-line="664" selection-start-column="16" selection-end-line="664" selection-end-column="16" />
-          <folding>
-            <element signature="e#23019#23020#0" expanded="true" />
-            <element signature="e#23059#23060#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/SolutionImpl.java" />
-    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="548" column="39" selection-start-line="548" selection-start-column="39" selection-end-line="548" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/Main.java" />
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/AServlet.java" />
     <entry file="file://$PROJECT_DIR$/weblearn/target/weblearn/WEB-INF/classes/com/yuan/web/request/AServlet.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/annotation/WebServlet.java">
@@ -1089,12 +1067,12 @@
     <entry file="file://$PROJECT_DIR$/weblearn/target/classes/com/yuan/web/request/BServlet.class" />
     <entry file="file://$PROJECT_DIR$/weblearn/target/classes/com/yuan/web/request/AServlet.class" />
     <entry file="file://$PROJECT_DIR$/DataStructure/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/CServlet.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1185,13 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1326,19 +1297,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/main/java/com/yuan/common/algorithm/Dijkstra.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="109" column="24" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
+        <state relative-caret-position="312">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
           <folding>
             <element signature="e#1417#1418#0" expanded="true" />
             <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#3306#3307#0" expanded="true" />
-            <element signature="e#3352#3353#0" expanded="true" />
-            <element signature="e#3484#3485#0" expanded="true" />
-            <element signature="e#3516#3517#0" expanded="true" />
-            <element signature="e#3652#3653#0" expanded="true" />
-            <element signature="e#3692#3693#0" expanded="true" />
-            <element signature="e#3791#3792#0" expanded="true" />
-            <element signature="e#3824#3825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/addCookie.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/BServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/getCookie.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/getSession.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/addSession.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="140" column="23" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/session/BServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/klasd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/AServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/session/AServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar!/org/apache/commons/beanutils/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/javabean/BeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="46" column="11" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="29" column="24" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
           </folding>
         </state>
       </provider>

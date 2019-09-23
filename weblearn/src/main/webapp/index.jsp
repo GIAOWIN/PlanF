@@ -3,7 +3,7 @@
 <html lang="zh-CN">
 <html>
 <body>
-<form action="/weblearn/req/eservlet" method="post">
+<form action="/weblearn/session/Aservlet" method="post">
     账号:<input type="text" name="username"/>
     密码:<input type="text" name="passworld"/>
     <input type="submit" value="提交"/>
