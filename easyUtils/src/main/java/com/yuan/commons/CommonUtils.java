@@ -7,6 +7,8 @@ import java.util.Map;
 import java.util.UUID;
 
 /**
+ * 通用工具类
+ *
  * @author Yuan-9826
  */
 public class CommonUtils {
@@ -16,6 +18,7 @@ public class CommonUtils {
      * @return 不重复的32位长的大写字符串
      */
     public static String uuid() {
+
         return UUID.randomUUID().toString().replace("-", "").toUpperCase();
     }
 

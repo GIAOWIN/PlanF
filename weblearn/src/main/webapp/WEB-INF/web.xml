@@ -11,4 +11,8 @@
         <servlet-name>MyServlet<!--这是servlet名，和上面的一致即可 也是随便写--></servlet-name>
         <url-pattern>/myservlet<!--这个是访问路径 随便写--></url-pattern>
     </servlet-mapping>
+
+    <listener>
+        <listener-class>com.yuan.listener.AListener</listener-class>
+    </listener>
 </web-app>

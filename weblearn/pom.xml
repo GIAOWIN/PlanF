@@ -70,14 +70,6 @@
             <version>2.0</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <!-- Junit -->
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
-        </dependency>
-
         <!-- easyUtil小工具 -->
         <dependency>
             <groupId>com.yuan</groupId>

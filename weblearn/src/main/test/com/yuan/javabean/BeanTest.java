@@ -2,8 +2,7 @@ package com.yuan.javabean;
 
 import com.yuan.commons.CommonUtils;
 import org.apache.commons.beanutils.BeanUtils;
-import org.junit.jupiter.api.Test;
-
+import org.junit.Test;
 import java.util.HashMap;
 
 
