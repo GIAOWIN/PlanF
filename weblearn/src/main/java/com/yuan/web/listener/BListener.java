@@ -1,10 +1,8 @@
-package com.yuan.listener;
+package com.yuan.web.listener;
 
 import javax.servlet.ServletContextAttributeEvent;
 import javax.servlet.ServletContextAttributeListener;
-import javax.servlet.annotation.WebListener;
 
-@WebListener()
 public class BListener implements ServletContextAttributeListener {
 
     /**

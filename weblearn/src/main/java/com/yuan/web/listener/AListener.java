@@ -1,4 +1,4 @@
-package com.yuan.listener;
+package com.yuan.web.listener;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
@@ -12,7 +12,6 @@ import javax.servlet.annotation.WebListener;
  * <p>
  * 这个监听器用来存放一些 初始化代码的
  */
-@WebListener
 public class AListener implements ServletContextListener {
 
     /**
