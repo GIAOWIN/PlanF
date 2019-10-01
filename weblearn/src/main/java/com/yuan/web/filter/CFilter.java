@@ -8,7 +8,7 @@ import java.util.LinkedHashMap;
 /**
  * @author Yuan-9826
  */
-@WebFilter("/*")
+//@WebFilter("/*")
 public class CFilter implements Filter {
 
 

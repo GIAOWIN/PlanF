@@ -16,8 +16,7 @@ public class EncodingFilter implements Filter {
 
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
-        System.out.println("编码过滤器执行");
-        final String version = filterConfig.getInitParameter("tomcatVersion");
+        String version = filterConfig.getInitParameter("tomcatVersion");
         this.version = Integer.valueOf(version);
         System.out.println(version);
 
@@ -32,7 +31,6 @@ public class EncodingFilter implements Filter {
          * tomcat1.8之后自己做了get请求的处理
          */
         if (version < 8) {
-            System.out.println("Tomcat版本低于8 做GET请求处理");
             //掉包request 和 HttpServletRequest
             HttpServletRequest request = (HttpServletRequest) req;
             //放行时
@@ -44,7 +42,6 @@ public class EncodingFilter implements Filter {
             }
         }else {
             chain.doFilter(req, res);
-            System.out.println("Tomcat版本不低于8 不做GET请求处理");
         }
     }
 
