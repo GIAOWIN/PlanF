@@ -35,7 +35,13 @@
         <option value="$PROJECT_DIR$/easyUtils/pom.xml" />
         <option value="$PROJECT_DIR$/DataStructure/pom.xml" />
         <option value="$PROJECT_DIR$/weblearn/pom.xml" />
+        <option value="$PROJECT_DIR$/ThreadLearn/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/weblearn/ThreadLearn/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="9" project-jdk-type="JavaSDK">

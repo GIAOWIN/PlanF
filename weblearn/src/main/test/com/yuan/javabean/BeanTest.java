@@ -1,6 +1,6 @@
 package com.yuan.javabean;
 
-import com.yuan.commons.CommonUtils;
+import com.yuan.util.commons.CommonUtils;
 import org.apache.commons.beanutils.BeanUtils;
 import org.junit.Test;
 import java.util.HashMap;

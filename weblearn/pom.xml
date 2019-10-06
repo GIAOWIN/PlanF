@@ -7,7 +7,10 @@
     <groupId>com.yuan</groupId>
     <artifactId>weblearn</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <modules>
+        <module>ThreadLearn</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>weblearn</name>
     <url>http://www.example.com</url>

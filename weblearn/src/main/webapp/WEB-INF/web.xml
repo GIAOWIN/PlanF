@@ -5,7 +5,7 @@
 <web-app>
     <servlet>
         <servlet-name>MyServlet</servlet-name>
-        <servlet-class>com.yuan.web.servlet.MyServlet</servlet-class>
+        <servlet-class>com.yuan.util.web.servlet.MyServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>MyServlet<!--这是servlet名，和上面的一致即可 也是随便写--></servlet-name>
@@ -14,7 +14,7 @@
 
 <filter>
     <filter-name>encoding</filter-name>
-    <filter-class>com.yuan.web.filter.EncodingFilter</filter-class>
+    <filter-class>com.yuan.util.web.filter.EncodingFilter</filter-class>
     <init-param>
         <param-name>tomcatVersion</param-name>
         <param-value>8</param-value>

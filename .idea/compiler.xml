@@ -7,13 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="easyUtils" />
-        <module name="weblearn" />
+        <module name="ThreadLearn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DataStructure" target="8" />
-      <module name="easyUtils" target="7" />
-      <module name="weblearn" target="1.8" />
+      <module name="easyUtils" target="8" />
+      <module name="Thread" target="1.5" />
+      <module name="ThreadLearn" target="7" />
+      <module name="weblearn" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

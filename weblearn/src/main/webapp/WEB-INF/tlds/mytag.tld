@@ -11,13 +11,13 @@
 
     <tag>
         <name>tagOne</name>
-        <tag-class>com.yuan.web.tag.MyTagOne</tag-class>
+        <tag-class>com.yuan.util.web.tag.MyTagOne</tag-class>
         <body-content>empty</body-content>
     </tag>
     <tag>
         <!--标签名-->
         <name>tagTwo</name>
-        <tag-class>com.yuan.web.tag.MyTagTwo</tag-class>
+        <tag-class>com.yuan.util.web.tag.MyTagTwo</tag-class>
         <body-content>empty</body-content>
     </tag>
     <tag>

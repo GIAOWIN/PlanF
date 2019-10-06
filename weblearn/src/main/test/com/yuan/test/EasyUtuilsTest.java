@@ -1,6 +1,6 @@
 package com.yuan.test;
 
-import com.yuan.commons.CommonUtils;
+import com.yuan.util.commons.CommonUtils;
 import org.junit.Test;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -23,6 +23,11 @@ public class EasyUtuilsTest {
         final ExecutorService executorService = Executors.newFixedThreadPool(1);
         final ScheduledExecutorService scheduledPool = Executors.newScheduledThreadPool(1);
         final ExecutorService singledPool = Executors.newSingleThreadExecutor();
+
+    }
+    @Test
+    public void localTest() {
+        System.out.println(EasyUtuilsTest.class.getClassLoader().getResourceAsStream("druid.properties"));
 
     }
 /**
