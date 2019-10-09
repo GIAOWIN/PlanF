@@ -7,73 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72629f24-0973-4cb7-a10d-db5b58244145" name="Default Changelist" comment="增加了分治算法和二分查找">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/ThreadLearn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/CallableLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/LIKE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/VolatileL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/同步容器类.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/线程按序交替打印.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/线程池.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/读写锁.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/闭锁.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNullAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/Null.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/jdbc/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/jdbc/druid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/weblearn_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/weblearn_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadLearn/翻译" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/ChickNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/ScanClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/local/Look.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/proxy/ExNotNullAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/PathTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/easyUtils/easyUtils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/easyUtils.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/easyUtils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/commons/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/commons/CommonUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/encoding/EncodeingUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/encoding/EncodeingUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/DownloadUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/io/DownloadUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/EasyUtuils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/io/EasyUtuils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/UploadUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/io/UploadUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/web/filter/EncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/web/filter/EncodingFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/web/filter/HttpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/web/filter/HttpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNullAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNullAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/Null.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/jdbc/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/jdbc/JDBCUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/jdbc/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/easyUtils/src/main/resource/druid.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblearn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/AServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/cookie/AServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/cookie/BServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/cookie/BServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/filter/AFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/filter/AFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/filter/BFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/filter/BFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/filter/CFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/filter/CFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/listener/AListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/listener/AListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/listener/BListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/listener/BListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/listener/CListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/listener/CListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/AServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/request/AServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/BServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/request/BServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/CServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/request/CServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/DServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/request/DServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/EServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/request/EServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/request/FServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/request/FServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/AServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/response/AServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/BServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/response/BServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/CServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/response/CServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/DServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/response/DServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/response/EServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/response/EServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/FileDawnloadServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/servlet/FileDawnloadServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/FileUploadServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/servlet/FileUploadServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/GetServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/servlet/GetServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/MyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/servlet/MyServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/PostServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/servlet/PostServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/session/AServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/session/AServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/session/BServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/session/BServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/tag/MyTagOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/tag/MyTagTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/tag/MyTagTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/xml/JsoupDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/xml/JsoupDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/javabean/BeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/javabean/BeanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/EasyUtuilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/EasyUtuilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/mytag.tld" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/mytag.tld" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblearn/weblearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/weblearn/weblearn.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -111,12 +61,12 @@
     <favorites_list name="PlanF" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNullAnnotation.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/ChickNull.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            <state relative-caret-position="156">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,11 +77,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNull.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="390">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNullAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-264">
+              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/2.1_3/cglib-2.1_3-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="33" column="30" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="33" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -141,9 +109,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="HTTP Request" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -164,15 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/filter/CServlet.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/tlds/mytag.tld" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/webapp/jstl.jsp" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/webapp/showIP.jsp" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/listener/CListener.java" />
-        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/encod/CoueUtils.java" />
-        <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/filter/EncodingFilter.java" />
-        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/web/EncodingFilter.java" />
-        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/web/filter/EncodingRequest.java" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/web/filter/HttpServletRequest.java" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/encoding/CoueUtils.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/showEncoding.jsp" />
@@ -183,7 +142,6 @@
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/encoding/EncodeingUtils.java" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/web/filter/HttpRequest.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/GetServlet.java" />
-        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/filter/CFilter.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/web/filter/EncodingFilter.java" />
@@ -194,7 +152,6 @@
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/io/DownloadUtils.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/java/com/yuan/web/servlet/FileDawnloadServlet.java" />
         <option value="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/EasyUtuilsTest.java" />
-        <option value="$PROJECT_DIR$/easyUtils/pom.xml" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/jdbc/JDBCUtils.java" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/jdbc/druid.properties" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/annotation/Null.java" />
@@ -214,6 +171,17 @@
         <option value="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/读写锁.java" />
         <option value="$PROJECT_DIR$/ThreadLearn/src/main/java/com/yuan/learn/线程池.java" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNull.java" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/local/Look.java" />
+        <option value="$PROJECT_DIR$/ThreadLearn/翻译" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/ExNotNullAnnotation.java" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/ChickNull.java" />
+        <option value="$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/PathTest.java" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/jdbc/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/ScanClass.java" />
+        <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/proxy/ExNotNullAnnotation.java" />
+        <option value="$PROJECT_DIR$/easyUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/weblearn/pom.xml" />
         <option value="$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNullAnnotation.java" />
       </list>
     </option>
@@ -245,17 +213,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="easyUtils" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="easyUtils" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -273,6 +231,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -338,15 +298,12 @@
             </path>
             <path>
               <item name="PlanF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easyUtils" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="weblearn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,12 +327,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1546875" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
     <property name="settings.editor.splitter.proportion" value="0.16309291" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.yuan.common" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PlanF\easyUtils\src\main\resource" />
+      <recent name="F:\PlanF\easyUtils\src" />
+      <recent name="F:\PlanF\weblearn\src\main\webapp\WEB-INF\tlds" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.yuan" />
@@ -391,9 +350,8 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.yuan.commons" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\PlanF\easyUtils\src" />
-      <recent name="F:\PlanF\weblearn\src\main\webapp\WEB-INF\tlds" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yuan.common" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -414,13 +372,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NotNullAnnotation">
-    <configuration name="线程按序交替打印" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.learn.线程按序交替打印" />
-      <module name="ThreadLearn" />
+  <component name="RunManager" selected="Application.ExNotNullAnnotation">
+    <configuration name="ExNotNullAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.util.proxy.ExNotNullAnnotation" />
+      <module name="easyUtils" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.learn.*" />
+          <option name="PATTERN" value="com.yuan.util.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,49 +399,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScheduledPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.learn.ScheduledPoolDemo" />
-      <module name="ThreadLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yuan.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="读写锁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.learn.读写锁" />
-      <module name="ThreadLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yuan.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NotNullAnnotation.like" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JDBCUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="easyUtils" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.util.annotation.*" />
+          <option name="PATTERN" value="com.yuan.util.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yuan.util.annotation" />
-      <option name="MAIN_CLASS_NAME" value="com.yuan.util.annotation.NotNullAnnotation" />
-      <option name="METHOD_NAME" value="like" />
+      <option name="PACKAGE_NAME" value="com.yuan.util.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.yuan.util.jdbc.JDBCUtils" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCUtils.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="easyUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.util.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuan.util.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.yuan.util.jdbc.JDBCUtils" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotNullAnnotation.te" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NotNullAnnotation.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="easyUtils" />
       <extension name="coverage">
         <pattern>
@@ -493,7 +440,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.yuan.util.annotation" />
       <option name="MAIN_CLASS_NAME" value="com.yuan.util.annotation.NotNullAnnotation" />
-      <option name="METHOD_NAME" value="te" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathTest.test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="weblearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yuan.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yuan.test.PathTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -715,20 +678,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.线程按序交替打印" />
-      <item itemvalue="Application.ScheduledPoolDemo" />
-      <item itemvalue="Tomcat Server.WebLearn" />
-      <item itemvalue="JUnit.NotNullAnnotation.like" />
-      <item itemvalue="JUnit.NotNullAnnotation.te" />
+      <item itemvalue="Application.ExNotNullAnnotation" />
       <item itemvalue="Application.NotNullAnnotation" />
+      <item itemvalue="JUnit.PathTest.test" />
+      <item itemvalue="JUnit.NotNullAnnotation.main" />
+      <item itemvalue="JUnit.JDBCUtils.test" />
+      <item itemvalue="JUnit.JDBCUtils" />
+      <item itemvalue="Tomcat Server.WebLearn" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExNotNullAnnotation" />
+        <item itemvalue="JUnit.JDBCUtils" />
+        <item itemvalue="JUnit.JDBCUtils.test" />
+        <item itemvalue="JUnit.NotNullAnnotation.main" />
         <item itemvalue="Application.NotNullAnnotation" />
-        <item itemvalue="JUnit.NotNullAnnotation.like" />
-        <item itemvalue="JUnit.NotNullAnnotation.te" />
-        <item itemvalue="Application.ScheduledPoolDemo" />
-        <item itemvalue="Application.线程按序交替打印" />
       </list>
     </recent_temporary>
   </component>
@@ -784,7 +748,10 @@
       <workItem from="1569910708662" duration="10872000" />
       <workItem from="1570237694416" duration="7730000" />
       <workItem from="1570258087068" duration="11032000" />
-      <workItem from="1570326748518" duration="2456000" />
+      <workItem from="1570326748518" duration="6750000" />
+      <workItem from="1570413648158" duration="2821000" />
+      <workItem from="1570527639777" duration="10461000" />
+      <workItem from="1570583206984" duration="4660000" />
     </task>
     <task id="LOCAL-00001" summary="增加了两个复制文件的方法，一个是复制目标文件夹下所有文件的，一个是复制单个文件。">
       <created>1566306157438</created>
@@ -881,39 +848,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NotNullAnnotation_like - 2019.10.06 at 09h 55m 08s.xml">
-      <configuration name="NotNullAnnotation.like" configurationId="JUnit" />
+    <history-entry file="JDBCUtils_test - 2019.10.08 at 21h 42m 54s.xml">
+      <configuration name="JDBCUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotNullAnnotation_like - 2019.10.06 at 09h 55m 35s.xml">
-      <configuration name="NotNullAnnotation.like" configurationId="JUnit" />
+    <history-entry file="JDBCUtils_test - 2019.10.08 at 21h 44m 06s.xml">
+      <configuration name="JDBCUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotNullAnnotation_like - 2019.10.06 at 09h 57m 09s.xml">
-      <configuration name="NotNullAnnotation.like" configurationId="JUnit" />
+    <history-entry file="JDBCUtils_test - 2019.10.08 at 21h 44m 30s.xml">
+      <configuration name="JDBCUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotNullAnnotation_te - 2019.10.06 at 09h 59m 07s.xml">
-      <configuration name="NotNullAnnotation.te" configurationId="JUnit" />
+    <history-entry file="JDBCUtils_test - 2019.10.08 at 21h 44m 56s.xml">
+      <configuration name="JDBCUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotNullAnnotation_te - 2019.10.06 at 09h 59m 21s.xml">
-      <configuration name="NotNullAnnotation.te" configurationId="JUnit" />
+    <history-entry file="JDBCUtils_test - 2019.10.08 at 21h 47m 12s.xml">
+      <configuration name="JDBCUtils.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotNullAnnotation_te - 2019.10.06 at 10h 02m 52s.xml">
-      <configuration name="NotNullAnnotation.te" configurationId="JUnit" />
+    <history-entry file="JDBCUtils - 2019.10.08 at 21h 48m 17s.xml">
+      <configuration name="JDBCUtils" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotNullAnnotation_like - 2019.10.06 at 10h 02m 56s.xml">
-      <configuration name="NotNullAnnotation.like" configurationId="JUnit" />
+    <history-entry file="JDBCUtils - 2019.10.08 at 21h 51m 35s.xml">
+      <configuration name="JDBCUtils" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotNullAnnotation_like - 2019.10.06 at 10h 03m 10s.xml">
-      <configuration name="NotNullAnnotation.like" configurationId="JUnit" />
+    <history-entry file="JDBCUtils - 2019.10.08 at 21h 51m 38s.xml">
+      <configuration name="JDBCUtils" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotNullAnnotation_like - 2019.10.06 at 10h 04m 07s.xml">
-      <configuration name="NotNullAnnotation.like" configurationId="JUnit" />
+    <history-entry file="JDBCUtils - 2019.10.08 at 21h 53m 00s.xml">
+      <configuration name="JDBCUtils" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotNullAnnotation_like - 2019.10.06 at 10h 04m 14s.xml">
-      <configuration name="NotNullAnnotation.like" configurationId="JUnit" />
+    <history-entry file="JDBCUtils - 2019.10.08 at 21h 58m 32s.xml">
+      <configuration name="JDBCUtils" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="404014000" />
+    <option name="totallyTimeSpent" value="426250000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -932,10 +899,10 @@
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
-      <window_info id="Structure" order="4" sideWeight="0.7132964" side_tool="true" weight="0.27345845" />
+      <window_info id="Structure" order="4" sideWeight="0.71468145" side_tool="true" weight="0.2546917" />
       <window_info id="Favorites" order="5" sideWeight="0.7119114" side_tool="true" weight="0.27680966" />
       <window_info id="Web" order="6" sideWeight="0.7132964" side_tool="true" weight="0.2761394" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.2867036" weight="0.2546917" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.28531855" weight="0.25402144" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32963988" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="2" />
@@ -949,7 +916,7 @@
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32963988" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49731904" weight="0.57479227" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49731904" weight="0.95706373" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50067025" side_tool="true" weight="0.9099723" />
       <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32963988" />
       <window_info anchor="bottom" id="Run" order="16" sideWeight="0.49932975" weight="0.666205" />
@@ -971,10 +938,10 @@
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
-      <window_info id="Structure" order="4" sideWeight="0.7132964" side_tool="true" weight="0.27345845" />
+      <window_info id="Structure" order="4" sideWeight="0.71468145" side_tool="true" weight="0.2546917" />
       <window_info id="Favorites" order="5" sideWeight="0.7119114" side_tool="true" weight="0.27680966" />
       <window_info id="Web" order="6" sideWeight="0.7132964" side_tool="true" weight="0.2761394" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.2867036" visible="true" weight="0.2546917" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.28531855" visible="true" weight="0.2546917" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32963988" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32963988" />
       <window_info anchor="bottom" id="Message" order="2" />
@@ -988,10 +955,10 @@
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32963988" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49731904" weight="0.57479227" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49731904" weight="0.95706373" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50067025" side_tool="true" weight="0.9099723" />
       <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32963988" />
-      <window_info active="true" anchor="bottom" id="Run" order="16" sideWeight="0.49932975" visible="true" weight="0.4072022" />
+      <window_info anchor="bottom" id="Run" order="16" sideWeight="0.49932975" weight="0.666205" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1095,157 +1062,6 @@
     <SUITE FILE_PATH="coverage/PlanF$WebLearn.ic" NAME="WebLearn Coverage Results" MODIFIED="1569049876750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/filter/CFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/web/filter/EncodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/encoding/EncodeingUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/io/UploadUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/servlet/FileDawnloadServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblearn/src/main/java/com/yuan/util/web/servlet/FileUploadServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="88" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/io/DownloadUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/IDEA JAVA/黑马/讲义+笔记+资料/2-JavaWeb/13.会员版(2.0)-就业课(2.0)-JDBC/day26_JDBC连接池&amp;JDBCTemplate/02_代码/day05_dataSource_jdbcTemplate/src/cn/itcast/utils/JDBCUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1916" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.283.4649/HZ$D.283.4650/day25_JDBC/02_代码/itcast/day04_jdbc/src/cn/itcast/util/JDBCUtils.java" />
-    <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="51" column="21" lean-forward="true" selection-start-line="45" selection-end-line="51" selection-end-column="21" />
-          <folding>
-            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#7;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#8;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#9;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#10;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#11;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#build#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="363" column="29" selection-start-line="363" selection-start-column="29" selection-end-line="363" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-          <folding>
-            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#dependency#7;n#dependencies#0;n#project#0;n#!!top" />
-            <element signature="n#build#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.xml.bind/com/sun/istack/internal/NotNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/Null.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/lang/annotation/Retention.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/lang/annotation/ElementType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/lang/annotation/Target.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
@@ -1274,46 +1090,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/commons/CommonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="549" column="18" selection-start-line="549" selection-start-column="18" selection-end-line="549" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weblearn/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/jdbc/JDBCUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#close#0;class#JDBCUtils#0" />
-            <element signature="method#close#2;class#JDBCUtils#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/jdbc/druid.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1532,10 +1312,186 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNull.java">
+    <entry file="file://C:/Program Files (x86)/VMware/VMware Workstation/vmware.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreadLearn/翻译">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/local/Look.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/Null.java" />
+    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="988" column="61" lean-forward="true" selection-start-line="986" selection-start-column="42" selection-end-line="988" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="549" column="18" selection-start-line="549" selection-start-column="18" selection-end-line="549" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/resource/druid.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/commons/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/jdbc/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#close#0;class#JDBCUtils#0" />
+            <element signature="method#close#2;class#JDBCUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/target/classes/com/yuan/util/web/filter/EncodingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#1503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/web/filter/EncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/src/main/test/com/yuan/test/PathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/JavaToos/Jdk/jdk9/lib/src.zip!/java.base/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="512" column="82" lean-forward="true" selection-start-line="512" selection-start-column="39" selection-end-line="512" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/proxy/ExNotNullAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/ScanClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="970">
+          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+          <folding>
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#7;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#8;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#9;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#10;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/ChickNull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/2.1_3/cglib-2.1_3-sources.jar!/net/sf/cglib/proxy/Callback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/2.1_3/cglib-2.1_3-sources.jar!/net/sf/cglib/proxy/Enhancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="655" column="52" selection-start-line="655" selection-start-column="44" selection-end-line="655" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weblearn/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/2.1_3/cglib-2.1_3-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <caret line="33" column="30" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1544,11 +1500,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easyUtils/src/main/java/com/yuan/util/annotation/NotNullAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-264">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>

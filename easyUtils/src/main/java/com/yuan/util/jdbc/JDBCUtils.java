@@ -1,9 +1,10 @@
 package com.yuan.util.jdbc;
 
 import com.alibaba.druid.pool.DruidDataSourceFactory;
+import org.junit.Test;
 
 import javax.sql.DataSource;
-import java.io.FileInputStream;
+import java.io.IOException;
 import java.io.InputStream;
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -16,16 +17,14 @@ import java.util.Properties;
  */
 public class JDBCUtils {
 
-    public static DataSource ds;
+    private static DataSource ds;
+    private static InputStream stream = ClassLoader.getSystemResourceAsStream("druid.properties");
 
     static {
+
         try {
             //加载配置文件
             Properties properties = new Properties();
-            InputStream stream = DataSource.class.getClassLoader().getResourceAsStream("druid.properties");
-            if (null == stream) {
-                stream = (InputStream) new FileInputStream("com/yuan/util/jdbc/druid.properties");
-            }
             properties.load(stream);
             //获取 DataSource
             ds = DruidDataSourceFactory.createDataSource(properties);
@@ -109,6 +108,11 @@ public class JDBCUtils {
      */
     public static void close(Connection conn) {
         close(conn, null, null);
+
+    }
+
+    @Test
+    public void test() throws IOException {
 
     }
 }
