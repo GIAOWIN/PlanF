@@ -36,6 +36,8 @@
         <option value="$PROJECT_DIR$/DataStructure/pom.xml" />
         <option value="$PROJECT_DIR$/weblearn/pom.xml" />
         <option value="$PROJECT_DIR$/ThreadLearn/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/JVMLearn/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

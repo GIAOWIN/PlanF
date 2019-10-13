@@ -31,7 +31,6 @@ public class CommonUtils {
      * @param <T>
      * @return
      */
-    @NotNull
     public static <T> T toBean(Map map, Class<T> clazz) {
         try {
             //1.创建指定类型的javaBean对象。

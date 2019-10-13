@@ -8,6 +8,7 @@ import java.util.List;
  * 扫描获取所有类路径下的类
  */
 public class ScanClass {
+
     /**
      * 开发者开的类对象
      */
@@ -15,11 +16,14 @@ public class ScanClass {
     /**
      * classpath绝对路径
      */
-    private static final String classpath = Thread.currentThread().getContextClassLoader().getResource(".").getPath();
+    private static  String classpath = Thread.currentThread().getContextClassLoader().getResource(".").getPath();
 
-
+    /**
+     * bean添加到集合
+     */
     static {
         initBean(new File(classpath));
+        System.out.println("ScanClass");
     }
 
     /**
@@ -69,10 +73,11 @@ public class ScanClass {
         }
     }
 
+    /**
+     *
+     * @return 类路径下所有资源
+     */
     public static List<Class> getBeasns() {
         return beasns;
     }
-
-
-
 }

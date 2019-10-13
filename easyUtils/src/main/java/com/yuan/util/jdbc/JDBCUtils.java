@@ -4,6 +4,8 @@ import com.alibaba.druid.pool.DruidDataSourceFactory;
 import org.junit.Test;
 
 import javax.sql.DataSource;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.sql.Connection;
@@ -18,13 +20,19 @@ import java.util.Properties;
 public class JDBCUtils {
 
     private static DataSource ds;
-    private static InputStream stream = ClassLoader.getSystemResourceAsStream("druid.properties");
+    private static InputStream stream;
 
     static {
 
         try {
+            stream = new FileInputStream("\\F:\\PlanF\\easyUtils\\src\\main\\resource\\druid.properties");
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        try {
             //加载配置文件
             Properties properties = new Properties();
+            System.out.println(stream+"+++++++++++");
             properties.load(stream);
             //获取 DataSource
             ds = DruidDataSourceFactory.createDataSource(properties);

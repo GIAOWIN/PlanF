@@ -1,5 +1,7 @@
 package com.yuan.util.encoding;
 
+import com.yuan.util.annotation.NotNull;
+
 import java.io.UnsupportedEncodingException;
 
 /**
@@ -12,12 +14,12 @@ public class EncodeingUtils {
      * @param code
      * @return
      */
+    @NotNull
     public static String i2u(String code) {
         try {
             return new String(code.getBytes("iso-8859-1"), "utf-8");
         } catch (UnsupportedEncodingException e) {
-            new RuntimeException("转码失败");
-            return null;
+            throw new RuntimeException("转码失败");
         }
     }
 
