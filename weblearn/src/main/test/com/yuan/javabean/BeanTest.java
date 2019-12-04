@@ -13,7 +13,7 @@ public class BeanTest {
      *  设置Person对象属性
      */
     public void test1() throws Exception {
-        String className = "com.yuan.javabean.Person";
+        String className = "com.com.yuan.javabean.Person";
         Class<?> clazz = Class.forName(className);
         Object bean = clazz.newInstance();
 

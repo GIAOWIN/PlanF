@@ -34,7 +34,9 @@ public class ProxyFactory {
                 Object invoke = null;
                 for (int i = 0; i < args.length; i++) {
                     if (args[i] == null) {
-                        System.out.println("第" + i + 1 + "个参数是null");
+                        System.out.println("第" + (i + 1) + "个参数是null");
+                        System.out.println("方法: " +  method.getName()  + "未执行");
+
                         return null;
                     }
                 }
@@ -51,6 +53,12 @@ public class ProxyFactory {
          * 2.被代理类不能被final修饰
          */
         Object proxy = Enhancer.create(object.getClass(), exMethod);
+
         return proxy;
+    }
+
+    public Object before(){
+
+        return null;
     }
 }

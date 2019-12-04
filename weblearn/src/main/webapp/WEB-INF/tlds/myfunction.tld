@@ -4,19 +4,19 @@
         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"
         version="2.0">
     <!--说明-->
-    <description>yuan</description>
-    <display-name>yuan-function</display-name>
+    <description>com.yuan</description>
+    <display-name>com.yuan-function</display-name>
     <!--版本-->
     <tlib-version>1.0</tlib-version>
     <!--建议的标签名-->
     <short-name>y</short-name>
     <!--地址 随便写 因为没联网-->
-    <uri>http://www.yuan.com/el/functions</uri>
+    <uri>http://www.com/el/functions</uri>
 
     <function>
         <!--标签名-->
         <name>fun</name>
-        <function-class>com.yuan.function.MyFunction</function-class>
+        <function-class>com.com.yuan.function.MyFunction</function-class>
         <function-signature>java.lang.String fun()</function-signature>
     </function>
 

@@ -1,4 +1,4 @@
-<%@ page import="com.yuan.domain.Person" %>
+<%@ page import="com.com.yuan.domain.Person" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="zh-CN">

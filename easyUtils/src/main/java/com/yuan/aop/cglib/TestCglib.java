@@ -7,7 +7,8 @@ public class TestCglib {
         Person pxPerson = (Person) factory.create();
 
 
-        pxPerson.show("qqq", 321, null, "www");
+        pxPerson.show(null, 321, null, "www");
+        pxPerson.show("like", 321, 123, "www");
 
     }
 }

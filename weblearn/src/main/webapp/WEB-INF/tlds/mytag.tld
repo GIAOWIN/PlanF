@@ -6,18 +6,18 @@
         version="2.1">
 
     <tlib-version>1.0</tlib-version>
-    <short-name>yuan</short-name>
-    <uri>http://www.yuan.com/jsp/jstl/core</uri>
+    <short-name>com.yuan</short-name>
+    <uri>http://www.com/jsp/jstl/core</uri>
 
     <tag>
         <name>tagOne</name>
-        <tag-class>com.yuan.web.tag.MyTagOne</tag-class>
+        <tag-class>com.com.yuan.web.tag.MyTagOne</tag-class>
         <body-content>empty</body-content>
     </tag>
     <tag>
         <!--标签名-->
         <name>tagTwo</name>
-        <tag-class>com.yuan.web.tag.MyTagTwo</tag-class>
+        <tag-class>com.com.yuan.web.tag.MyTagTwo</tag-class>
         <body-content>empty</body-content>
     </tag>
     <tag>

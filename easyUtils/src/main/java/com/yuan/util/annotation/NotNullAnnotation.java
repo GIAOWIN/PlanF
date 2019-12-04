@@ -1,12 +1,9 @@
 package com.yuan.util.annotation;
 
 
-import net.sf.cglib.proxy.Enhancer;
-import net.sf.cglib.proxy.MethodInterceptor;
-import net.sf.cglib.proxy.MethodProxy;
-
 import java.lang.reflect.Method;
-import java.lang.reflect.Parameter;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 
@@ -18,7 +15,50 @@ public class NotNullAnnotation {
         System.out.println("NotNullAnnotation");
     }
 
+    /**
+     * 获取所有类
+     */
     private static List<Class> beasns = ScanClass.getBeasns();
+
+
+
+    /**
+     * 获得要代理的类和方法Map
+     *
+     *
+     * @return要代理的类和方法Map 对象
+     */
+    public static HashMap<Class, ArrayList<Method>> getProxyMap() {
+        HashMap<Class, ArrayList<Method>> proxyMap = new HashMap<>();
+        for (Class beasn : beasns) {
+            Method[] methods = beasn.getMethods();
+            /**
+             * 每个类中有目标注解的方法集合
+             */
+            ArrayList<Method> targetMethodList = new ArrayList<>();
+
+            for (Method method : methods) {
+                if (method.isAnnotationPresent(NotNull.class)) {
+
+                    targetMethodList.add(method);
+                }
+            }
+            //如果这个类有目标方法 就添加，没有就不添加
+            if (targetMethodList.size() > 0) {
+                proxyMap.put(beasn, targetMethodList);
+            }
+
+        }
+        return proxyMap;
+
+
+    }
+
+
+
+
+
+
 
  /*   public static void getAnnoMethod() {
         //1.遍历所有类
@@ -32,19 +72,19 @@ public class NotNullAnnotation {
                 if (method.isAnnotationPresent(NotNull.class)) {
                     System.out.println("有这个注解的方法是： = " + method);
                     *//**
-                     * 使用Cglib动态获取这些类传入的参数值
-                     * 1.Enhancer的creat方法
-                     *      creat方法中的参数是 被代理类的字节码对象，Callback接口，这里我用 new MethodInterceptor（）匿名的lambda表达式
-                     * 2.被代理类不能被final修饰
-                     *//*
+     * 使用Cglib动态获取这些类传入的参数值
+     * 1.Enhancer的creat方法
+     *      creat方法中的参数是 被代理类的字节码对象，Callback接口，这里我用 new MethodInterceptor（）匿名的lambda表达式
+     * 2.被代理类不能被final修饰
+     *//*
                     Object exObj = Enhancer.create(bean, new MethodInterceptor() {
                         @Override
                         *//**
-                         * proxy 增强对象
-                         * method 截获的方法
-                         * args 参数数组
-                         * methodProxy 用于调用super（非截获方法）；可以根据需要多次调用
-                         *//*
+     * proxy 增强对象
+     * method 截获的方法
+     * args 参数数组
+     * methodProxy 用于调用super（非截获方法）；可以根据需要多次调用
+     *//*
                         public Object intercept(Object proxy, Method method, Object[] args, MethodProxy methodProxy) throws Throwable {
 
                             Object invoke = method.invoke(args);*/

@@ -18,13 +18,13 @@ public class Cglib {
          *      Callback接口，这里我用 new MethodInterceptor（）匿名的lambda表达式
          * 2.被代理类不能被final修饰
          */
-        Person person = new Person(1025,"yuan");
+        Person person = new Person(1025,"com.yuan");
         System.out.println("------------------------");
         Person proxy = (Person)Enhancer.create(Person.class, new ExMethod(person));
         proxy.eat("土豆");
 /*        proxy.getId();
         Object[] obj = {"蒸熊掌","蒸鹿邑","烧雏鸡",20,"馒头"};
-        proxy.eat("yuan",obj);*/
+        proxy.eat("com.yuan",obj);*/
     }
 }
 

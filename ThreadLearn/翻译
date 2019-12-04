@@ -1,7 +1,7 @@
-F:\PlanF\easyUtils\target\classes\com\yuan\util\local>javap -c Look.class
+F:\PlanF\easyUtils\target\classes\com\com.yuan\util\local>javap -c Look.class
 Compiled from "Look.java"
-public class com.yuan.util.local.Look {
-  public com.yuan.util.local.Look();
+public class com.com.yuan.util.local.Look {
+  public com.com.yuan.util.local.Look();
     Code:
        0: aload_0
        1: invokespecial #1                  // Method java/lang/Object."<init>":()V
@@ -25,4 +25,7 @@ public class com.yuan.util.local.Look {
       12: iinc          1, 1
     //
       15: return
+
+
+    
 }

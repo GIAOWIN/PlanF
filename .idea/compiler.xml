@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ThreadLearn" />
+        <module name="designPatternLearn" />
         <module name="easyUtils" />
         <module name="JVMLearn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DataStructure" target="8" />
+      <module name="designPatternLearn" target="7" />
       <module name="easyUtils" target="8" />
       <module name="JVMLearn" target="1.5" />
       <module name="Thread" target="1.5" />
